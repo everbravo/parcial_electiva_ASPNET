@@ -1,0 +1,6 @@
+C:\Users\nelli\source\repos\ParcialAspNetApi\ParcialAspNetApi\obj\Debug\net5.0\ParcialAspNetApi.csproj.AssemblyReference.cache
+C:\Users\nelli\source\repos\ParcialAspNetApi\ParcialAspNetApi\obj\Debug\net5.0\ParcialAspNetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelli\source\repos\ParcialAspNetApi\ParcialAspNetApi\obj\Debug\net5.0\ParcialAspNetApi.AssemblyInfoInputs.cache
+C:\Users\nelli\source\repos\ParcialAspNetApi\ParcialAspNetApi\obj\Debug\net5.0\ParcialAspNetApi.AssemblyInfo.cs
+C:\Users\nelli\source\repos\ParcialAspNetApi\ParcialAspNetApi\obj\Debug\net5.0\ParcialAspNetApi.csproj.CoreCompileInputs.cache
+C:\Users\nelli\source\repos\ParcialAspNetApi\ParcialAspNetApi\obj\Debug\net5.0\ParcialAspNetApi.MvcApplicationPartsAssemblyInfo.cache
